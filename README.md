@@ -1,0 +1,2 @@
+# AIP-S-
+lots of goes into inspiration before we dive into the sematic search engine. we mainly choose this to work on because we all know how difficult and hectic the process of finding the exact or relavent information of any query from huge book or pdf. lets take a examples when we manually search for answers on textual based data(Book, Pdf) we have to go through each and every line. same with our engine we can find it in a matter of time.
