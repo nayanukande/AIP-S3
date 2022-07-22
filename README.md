@@ -1,6 +1,6 @@
 # AIP-S3
 ## *A.I Powered - Semantic Search Engine*
-![enter image description here](https://github.com/dotaadarsh/AI4QE/blob/main/asserts/ai4qe.png)
+![enter image description here](https://github.com/nayanukande/AIP-S3/blob/main/asserts/banner_image.jpg)
 This project is created for the [Hackatra hackathon](https://hackatra.devpost.com/) .  The problems statements can be found in this [Github repo](https://github.com/vruksheco/Hackatra).
 Let's see what AI4QE does!
 
