@@ -1,8 +1,7 @@
 # AIP-S3
 ## *A.I Powered - Semantic Search Engine*
 ![enter image description here](https://github.com/nayanukande/AIP-S3/blob/main/asserts/banner_image.jpg)
-This project is created for the [Hackatra hackathon](https://hackatra.devpost.com/) .  The problems statements can be found in this [Github repo](https://github.com/vruksheco/Hackatra).
-Let's see what AI4QE does!
+Our project mainly based on NLP and created for Hackatra hackathon conducted on DevPost [Hackatra hackathon](https://hackatra.devpost.com/) .
 
 ### Introduction
 AI4QE is an app which help to provide the Quality Education with the help of Artificial Intelligence.  It is powered by [OpenAI](https://openai.com/), [HuggingFace](https://huggingface.co/), DocArray and Streamlit. 
