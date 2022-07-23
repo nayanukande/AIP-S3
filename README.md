@@ -27,7 +27,7 @@ Don't forget to change the API KEY from OpenAI in the .streamlit/secreats.toml f
 >    streamlit run app.py
 ### Media
 ![Homepage](https://github.com/nayanukande/AIP-S3/blob/main/asserts/result_image.png) 
-[AI4QE - YT VIDEO](https://youtu.be/J1n9FTCwLu0)
+[Introductoral Youtube Video](https://www.youtube.com/watch?v=D8wwWPzE_mY)
 
-### Try it out!
-[AI4QE](https://share.streamlit.io/dotaadarsh/ai4qe/main/app.py)
+### Check it out!
+[AIP-S3](https://huggingface.co/spaces/rushi29/AIP_pdf)
