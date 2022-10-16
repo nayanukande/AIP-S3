@@ -23,3 +23,6 @@ AIP-S3 is an Cloud deployed app, we are building it for betterment for the Quest
 
 ### Check it out!
 [AIP-S3](https://huggingface.co/spaces/rushi29/AIP_pdf)
+
+
+Contribution - [Rushikesh Shahrao](https://github.com/shaharao-rushikesh), [Nayan Ukande](https://github.com/nayanukande), [Umang Bagadi](https://github.com/umangbagadi03) and [Rupak Kadhare](https://github.com/RupakKadhare15)
