@@ -7,7 +7,7 @@ Our project mainly based on NLP and created for Hackatra hackathon conducted on 
 AIP-S3 is an Cloud deployed app, we are building it for betterment for the Questioning and Answering. we used Hugging Face for the deployment. 
 
  - **Text Summarizer** - It is a automatic text summarization page which supports different types of text data from different sources.
- - **Semantic Searh** - Semantic search is a data searching technique in which a search query not only finds keywords, but also determines the intent and contextual meaning of the words a person is using for search. With the help of OpenAI it performs the semantic search on the given document and provide the best result.
+ - **Semantic Search** - Semantic search is a data searching technique in which a search query not only finds keywords, but also determines the intent and contextual meaning of the words a person is using for search. With the help of OpenAI it performs the semantic search on the given document and provide the best result.
 
 ### Tools & Software used
 
